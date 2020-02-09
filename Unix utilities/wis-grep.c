@@ -1,5 +1,5 @@
 //
-//  main.c
+//  wisc-grep.c
 //  537 P1a
 //
 //  Created by Aurora Shen on 1/27/20.
